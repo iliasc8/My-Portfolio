@@ -1,0 +1,29 @@
+body {
+    background-image: url("./Assets/paper.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight:600;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+  }
+
+  .navbar {
+    font-weight: bold;
+    display: flexbox;
+    justify-content: center;
+    } 
+    
+    .bg-light {
+        background-color: #A9A9A9!important;
+            color: whitesmoke;
+        } 
