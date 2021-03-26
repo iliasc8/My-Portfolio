@@ -1,9 +1,11 @@
 # My-Portfolio
 
-![alt text](portfolio.PNG)
+![alt text](port.PNG)
 
 
-![alt text](aboutme.PNG)
+![alt text](about.PNG)
 
 
 ![alt text](contact.PNG)
+
+
